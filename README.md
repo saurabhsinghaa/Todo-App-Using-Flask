@@ -16,8 +16,16 @@ Welcome to MyTodo : A simple and intuitive task management application built wit
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+App Preview
+![App Screenshot](./readme-data/one.png)
+Create Todos
+![App Screenshot](./readme-data/two.png)
+Delete Todo "study Maths"
+![App Screenshot](./readme-data/three.png)
+Update Todo "Cook Food" description from "Make Fish Curry" to "Make Fish Curry and Roti"
+![App Screenshot](./readme-data/four.png)
+App Preview after Update
+![App Screenshot](./readme-data/five.png)
 
 
 ## Usage
