@@ -1,0 +1,6 @@
+if some one getting error with db.create_all().... then try this on your terminal python:-
+
+>>from app import app, db
+>>app.app_context().push()
+>>db.create_all()
+>>exit()
